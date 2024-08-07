@@ -1,0 +1,12 @@
+C:\Users\sanskruti.itkar\source\repos\MovieManager\bin\Debug\net8.0\MovieManager.deps.json
+C:\Users\sanskruti.itkar\source\repos\MovieManager\bin\Debug\net8.0\MovieManager.dll
+C:\Users\sanskruti.itkar\source\repos\MovieManager\bin\Debug\net8.0\MovieManager.pdb
+C:\Users\sanskruti.itkar\source\repos\MovieManager\obj\Debug\net8.0\MovieManager.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\MovieManager\obj\Debug\net8.0\MovieManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanskruti.itkar\source\repos\MovieManager\obj\Debug\net8.0\MovieManager.AssemblyInfoInputs.cache
+C:\Users\sanskruti.itkar\source\repos\MovieManager\obj\Debug\net8.0\MovieManager.AssemblyInfo.cs
+C:\Users\sanskruti.itkar\source\repos\MovieManager\obj\Debug\net8.0\MovieManager.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\MovieManager\obj\Debug\net8.0\MovieManager.dll
+C:\Users\sanskruti.itkar\source\repos\MovieManager\obj\Debug\net8.0\refint\MovieManager.dll
+C:\Users\sanskruti.itkar\source\repos\MovieManager\obj\Debug\net8.0\MovieManager.pdb
+C:\Users\sanskruti.itkar\source\repos\MovieManager\obj\Debug\net8.0\ref\MovieManager.dll
